@@ -1,6 +1,6 @@
 # Netgsm API JAVA Örnekleri
 
-Netgsm API Servislerini kullanabileceğiniz JAVA örnekleri bu repoda yer alır. 
+* Netgsm API Servislerini kullanabileceğiniz JAVA örnekleri bu repoda yer alır. 
 
 
 # İletişim & Destek
@@ -10,5 +10,5 @@ Netgsm API Servislerini kullanabileceğiniz JAVA örnekleri bu repoda yer alır.
 
 # Doküman 
 
-API Servisi için hazırlanmış kapsamlı dokümana ve farklı yazılım dillerinde örnek amaçlı hazırlanmış örnek kodlamalara 
- [buradan](https://www.netgsm.com.tr/dokuman) adresinden ulaşabilirsiniz.
+* API Servisi için hazırlanmış kapsamlı dokümana ve farklı yazılım dillerinde örnek amaçlı hazırlanmış örnek kodlamalara 
+ [https://www.netgsm.com.tr/dokuman](https://www.netgsm.com.tr/dokuman) adresinden ulaşabilirsiniz.
